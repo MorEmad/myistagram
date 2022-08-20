@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'profile.dart';
-import 'instagram.dart';
-import 'explower_page.dart';
-import 'like_page.dart';
+import 'secreens/profile.dart';
+import 'secreens/instagram.dart';
+import 'secreens/explower_page.dart';
+import 'secreens/like_page.dart';
 
 
 class MyBottomNavegatorBar extends StatefulWidget {

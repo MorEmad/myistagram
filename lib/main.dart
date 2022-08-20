@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myistagram/secreens/nav_bar.dart';
+import 'package:myistagram/nav_bar.dart';
 
 void main() {
   runApp(const MyApp());
